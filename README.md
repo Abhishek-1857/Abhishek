@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Secret Cosmwasm](https://github.com/securesecrets/Secret-DAODAO)
 
-- 🌱 I’m currently learning **libp2p for networking in blockchains**
+- 🌱 I’m currently working on **libp2p for networking in blockchains**
 
 - 💬 Ask me about **Blockchain,Consensus,Networking,Smart-Contracts,Defi,Dapps,Layer1,Layer2**
 
